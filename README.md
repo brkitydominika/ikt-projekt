@@ -1,1 +1,2 @@
 # ikt-projekt
+# gépről írtam
