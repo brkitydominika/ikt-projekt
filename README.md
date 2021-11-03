@@ -3,4 +3,4 @@
 # saját gép bejegyzés
 # Thank you so much bestofrendo
 # YEET
-# Illés volt
+# Illés volt2222
