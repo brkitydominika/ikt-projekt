@@ -3,5 +3,4 @@
 # saját gép bejegyzés
 # Thank you so much bestofrendo
 # YEET
-# Gagksajbnxl
-
+# Illés volt
