@@ -3,3 +3,4 @@
 # saját gép bejegyzés
 # Thank you so much bestofrendo
 # YEET
+# Hello
