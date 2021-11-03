@@ -7,3 +7,4 @@
 # Gellért voltam
 # oké
 # yes
+# megvernémazIllést
