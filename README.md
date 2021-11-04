@@ -8,7 +8,8 @@
 # oké
 # Yu Yu Hakusho
 # megvernémazIllést
-zz
+# zz
 # lmao kesz
-# nedves csattanós valaki? 
-# pl Gelli
+# nedves csattanós valaki?
+# nem
+# DE DE DE
