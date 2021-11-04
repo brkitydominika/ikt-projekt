@@ -11,3 +11,4 @@
 zz
 # lmao kesz
 # nedves csattanós valaki?
+# nem
