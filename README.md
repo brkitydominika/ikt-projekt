@@ -12,4 +12,4 @@
 # lmao kesz
 # nedves csattanós valaki?
 # nem
-# DE DE DE
+# Mondom nem
