@@ -10,4 +10,5 @@
 # megvernémazIllést
 zz
 # lmao kesz
-# nedves csattanós valaki?
+# nedves csattanós valaki? 
+# pl Gelli
