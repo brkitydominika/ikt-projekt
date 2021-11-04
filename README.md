@@ -13,3 +13,4 @@
 # nedves csattanós valaki?
 # nem
 # Mondom nem
+# ccs kesz
