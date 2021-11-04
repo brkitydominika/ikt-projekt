@@ -10,11 +10,6 @@
 # megvernémazIllést
 # zz
 # lmao kesz
-<<<<<<< HEAD
-# nedves csattanós valaki? 
-# pl Gelli
-# bla bla 
-=======
 # nedves csattanós valaki?
 # nem
->>>>>>> 7566749c28a23de32b3ad87c248b5cafb7274ca8
+# DE DE DE
