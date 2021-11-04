@@ -9,3 +9,4 @@
 # Yu Yu Hakusho
 # megvernémazIllést
 zz
+# lmao kesz
