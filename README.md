@@ -6,5 +6,5 @@
 # Illés volt2222
 # Gellért voltam
 # oké
-# yes
+# Yu Yu Hakusho
 # megvernémazIllést
