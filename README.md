@@ -14,3 +14,4 @@
 # nem
 # Mondom nem
 # ccs kesz
+# ez nem egy fork
